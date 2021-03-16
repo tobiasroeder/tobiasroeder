@@ -1,6 +1,6 @@
 ### Hey, I'm Tobias
 
-- 🔭 I’m currently working on ImageBox v1.2.1 / v1.3.0-BETA
+- 🔭 I’m currently working on ImageBox v1.3.0
 
 <!--
 **tobiasroeder/tobiasroeder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
