@@ -1,5 +1,9 @@
 ### Hey, I'm Tobias
 
+Currenly released the [IB.js](https://github.com/tobiasroeder/IB.js) project and updated the [Lucide Icon Font](https://github.com/tobiasroeder/lucide-icon-font) project.
+
+## Stats
+
 ![Tobias Röder's GitHub stats](https://github-readme-stats-tobiasroeder.vercel.app/api?username=tobiasroeder&show_icons=true&theme=gruvbox)
 
 ![Top Langs](https://github-readme-stats-tobiasroeder.vercel.app/api/top-langs/?username=tobiasroeder&theme=gruvbox)
