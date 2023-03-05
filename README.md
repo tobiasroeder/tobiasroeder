@@ -1,6 +1,6 @@
 ### Hey, I'm Tobias
 
-Currenly released the [IB.js](https://github.com/tobiasroeder/IB.js) project and updated the [Lucide Icon Font](https://github.com/tobiasroeder/lucide-icon-font) project.
+Currenly released the [ImageBox](https://github.com/tobiasroeder/ImageBox) v1.3.1 update and working on the VideoBox.
 
 ## Stats
 
