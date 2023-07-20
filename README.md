@@ -4,4 +4,5 @@ Recently released my first CSS framework called [Dokumentation](https://github.c
 
 ## Stats
 
-![Top Langs](https://github-readme-stats-tobiasroeder.vercel.app/api/top-langs/?username=tobiasroeder&theme=transparent) ![Tobias Röder's GitHub stats](https://github-readme-stats-tobiasroeder.vercel.app/api?username=tobiasroeder&show_icons=true&theme=transparent)
+<!-- ![Top Langs](https://github-readme-stats-tobiasroeder.vercel.app/api/top-langs/?username=tobiasroeder&theme=transparent) -->
+![Tobias Röder's GitHub stats](https://github-readme-stats-tobiasroeder.vercel.app/api?username=tobiasroeder&show_icons=true&theme=transparent)
