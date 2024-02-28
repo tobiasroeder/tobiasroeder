@@ -1,6 +1,8 @@
 ## Hey, I'm Tobias
 
-Recently released my first CSS framework called [Dokumentation](https://github.com/tobiasroeder/Dokumentation) [dokumɛntaˈtsi̯oːn].
+Currently working on `VideoController.js`. More details coming soon.
+
+Released my first CSS framework called [Dokumentation](https://github.com/tobiasroeder/Dokumentation) [dokumɛntaˈtsi̯oːn].
 
 ## Stats
 
