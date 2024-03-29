@@ -2,6 +2,8 @@
 
 Currently working on `VideoController.js`. More details coming soon.
 
+Released an update for [ImageBox (v1.3.2)](https://github.com/tobiasroeder/ImageBox).
+
 Released my first CSS framework called [Dokumentation](https://github.com/tobiasroeder/Dokumentation) [dokumɛntaˈtsi̯oːn].
 
 ## Stats
